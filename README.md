@@ -13,11 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![background](https://user-images.githubusercontent.com/83488126/116774808-aa043080-aa7c-11eb-9ad3-25b4289df1a7.jpg)
-![3](https://user-images.githubusercontent.com/83488126/116774860-14b56c00-aa7d-11eb-8067-1dd718ebb75b.png)
-![4](https://user-images.githubusercontent.com/83488126/116774861-15e69900-aa7d-11eb-85ee-4dc328e2f30c.png)
-![5](https://user-images.githubusercontent.com/83488126/116774862-15e69900-aa7d-11eb-9166-cbe4383e9464.png)
-![6](https://user-images.githubusercontent.com/83488126/116774863-167f2f80-aa7d-11eb-98a4-a05b2ec6509e.png)
-![1](https://user-images.githubusercontent.com/83488126/116774864-1717c600-aa7d-11eb-889e-3af4f86ebf74.png)
-![2](https://user-images.githubusercontent.com/83488126/116774865-1717c600-aa7d-11eb-9794-55f231cad720.png)
+--!
